@@ -1,3 +1,4 @@
 zuul:
   routes:
+    #key=服务名，value=匹配的url转发到对应服务
     user-server: /api/user/**

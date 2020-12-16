@@ -11,5 +11,5 @@ spring:
     driver-class-name: org.postgresql.Driver
     password: 123456
     type: com.zaxxer.hikari.HikariDataSource
-    url: jdbc:postgresql://localhost:5432/hospital?currentSchema=employee
+    url: jdbc:postgresql://localhost:5432/hospital?currentSchema=authority
     username: postgres
